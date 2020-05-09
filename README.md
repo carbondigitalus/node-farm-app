@@ -1,6 +1,6 @@
 # node-farm-app
 
-This repository is intended for local use only. 
+This repository is intended for local use only. It has been used in a previous Udemy project.
 
 ## how to use
 
