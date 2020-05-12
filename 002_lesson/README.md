@@ -1,4 +1,4 @@
-# node lesson 001
+# node lesson 002
 
 Small node app for selling farm grown fruit and veggies!
 
