@@ -4,12 +4,19 @@ Small node app for selling farm grown fruit and veggies!
 
 ## Table of Contents
 
+1. [Quick Notes](#quickNotes)
+
 1. [Create Project](#initProject)
 
 1. [Install Nodemon](#nodemon)
 
 1. [Reference Links](#reference)
 
+## Quick Notes <a name="quickNotes"></a>
+
+All of the recorded videos will be uploaded to YouTube. The only way you can access these videos is by using the URL for the playlist. The title of the video will match the repo title. Today's title is "node lesson 001" so that's the video you look for.
+
+[YouTube Playlist](https://www.youtube.com/watch?v=-u9l3c6QkSM&list=PLZXCmxSrWXSmpNi6q-N9k2NwJP1qMSU_Q)
 
 ## Create Project <a name="initProject"></a>
 
@@ -26,7 +33,13 @@ npm init
 
 ## Create Project <a name="nodemon"></a>
 
-Install nodemon package as a dev dependency.
+- Install the nodemon package globally.
+
+```
+npm install nodemon -g
+```
+
+- Install nodemon package as a dev dependency.
 
 ```
 npm install nodemon --save-dev
