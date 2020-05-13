@@ -26,7 +26,7 @@ Small node app for selling farm grown fruit and veggies!
 
 ## Quick Notes <a name="quickNotes"></a>
 
-All of the recorded videos will be uploaded to YouTube. The only way you can access these videos is by using the URL for the playlist. The title of the video will match the repo title. Today's title is "node lesson 001" so that's the video you look for.
+All of the recorded videos will be uploaded to YouTube. The only way you can access these videos is by using the URL for the playlist. The title of the video will match the repo title. 
 
 [YouTube Playlist](https://www.youtube.com/watch?v=-u9l3c6QkSM&list=PLZXCmxSrWXSmpNi6q-N9k2NwJP1qMSU_Q)
 
