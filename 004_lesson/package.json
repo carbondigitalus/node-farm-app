@@ -1,0 +1,17 @@
+{
+  "name": "002_lesson",
+  "version": "1.0.0",
+  "description": "Small node app for selling farm grown fruit and veggies!",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.3"
+  },
+  "dependencies": {
+    "slugify": "^1.4.0"
+  }
+}
